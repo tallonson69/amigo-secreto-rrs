@@ -29,8 +29,8 @@ Cómo usar el proyecto 🚀
 
 Requisitos previos
 
-   > Un navegador web moderno (Chrome, Firefox, Edge, etc.).
-   > Conexión a Internet (si deseas ver las imágenes de ejemplo).
+   >> Un navegador web moderno (Chrome, Firefox, Edge, etc.).
+   >> Conexión a Internet (si deseas ver las imágenes de ejemplo).
 
 Instalación
 
@@ -46,19 +46,19 @@ Instalación
 
 Ejecución
 
-   > Abre el archivo index.html en tu navegador.
+   >> Abre el archivo index.html en tu navegador.
 
-   > Ingresa los nombres de tus amigos en el campo de texto y haz clic en "Añadir".
+   >> Ingresa los nombres de tus amigos en el campo de texto y haz clic en "Añadir".
 
-   > Una vez que hayas agregado todos los nombres, haz clic en "Sortear Amigo" para obtener un resultado aleatorio.
+   >> Una vez que hayas agregado todos los nombres, haz clic en "Sortear Amigo" para obtener un resultado aleatorio.
 
 Tecnologías utilizadas 💻
 
-   > HTML: Estructura de la página web.
+   >> HTML: Estructura de la página web.
 
-   > CSS: Estilos para la interfaz de usuario.
+   >> CSS: Estilos para la interfaz de usuario.
 
-   > JavaScript: Lógica para agregar nombres, validar entradas y realizar el sorteo.
+   >> JavaScript: Lógica para agregar nombres, validar entradas y realizar el sorteo.
 
 Posibles problemas y soluciones ⚠️
 
@@ -91,6 +91,4 @@ Créditos 🙌
 
 
 ¡Gracias por usar Amigo Secreto! Esperamos que te sea útil para organizar tus intercambios de regalos. 🎉
-
-
 
