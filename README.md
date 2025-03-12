@@ -2,23 +2,20 @@
 Amigo Secreto 🎁
 
 ¡Bienvenido al proyecto Amigo Secreto! Esta es una aplicación web sencilla que te permite agregar nombres de amigos a una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto". Perfecto para organizar intercambios de regalos en reuniones familiares, fiestas o eventos.
+
 Funcionalidades principales ✨
 
-    Agregar nombres:
-
-        Ingresa el nombre de un amigo en el campo de texto y haz clic en "Añadir" para agregarlo a la lista.
-
-        Los nombres se muestran en una lista visible en la página.
-
-    Validación de entrada:
-
-        Si el campo de texto está vacío, se mostrará una alerta pidiendo un nombre válido.
-
-    Sorteo aleatorio:
-
-        Al hacer clic en "Sortear Amigo", se selecciona un nombre de la lista de forma aleatoria.
-
-        El resultado se muestra en pantalla.
+1. Agregar nombres:
+   Ingresa el nombre de un amigo en el campo de texto y haz clic en "Añadir" para agregarlo a la lista.
+   Los nombres se muestran en una lista visible en la página
+   
+3. Validación de entrada:
+   Si el campo de texto está vacío, se mostrará una alerta pidiendo un nombre válido.
+   
+5. Sorteo aleatorio:
+   Al hacer clic en "Sortear Amigo", se selecciona un nombre de la lista de forma aleatoria.
+   El resultado se muestra en pantalla.
+   
 Comenzando 🚀
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
