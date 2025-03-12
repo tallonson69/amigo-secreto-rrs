@@ -16,7 +16,19 @@ Funcionalidades principales ✨
    Al hacer clic en "Sortear Amigo", se selecciona un nombre de la lista de forma aleatoria.
    El resultado se muestra en pantalla.
    
-Comenzando 🚀
+Capturas de pantalla 📸
+
+1. Interfaz principal
+   ![imagen](https://github.com/user-attachments/assets/3e71d918-8aa2-4120-ae3c-f7d04238a18d)
+
+2. Agregar nombres
+
+   ![imagen](https://github.com/user-attachments/assets/b4cb5581-6384-4077-b979-d696f98e87d3)
+
+
+
+
+
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
 
