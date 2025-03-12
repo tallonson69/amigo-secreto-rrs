@@ -1,5 +1,5 @@
 # amigo-secreto-rrs
-Título del Proyecto
+Amigo Secreto 🎁
 
 Acá va un párrafo que describa lo que es el proyecto
 Comenzando 🚀
