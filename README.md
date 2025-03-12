@@ -1,7 +1,7 @@
 # amigo-secreto-rrs
 Amigo Secreto 🎁
 
-Acá va un párrafo que describa lo que es el proyecto
+¡Bienvenido al proyecto Amigo Secreto! Esta es una aplicación web sencilla que te permite agregar nombres de amigos a una lista y realizar un sorteo aleatorio para determinar quién es el "amigo secreto". Perfecto para organizar intercambios de regalos en reuniones familiares, fiestas o eventos.
 Comenzando 🚀
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas.
