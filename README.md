@@ -9,10 +9,10 @@ Funcionalidades principales ✨
    Ingresa el nombre de un amigo en el campo de texto y haz clic en "Añadir" para agregarlo a la lista.
    Los nombres se muestran en una lista visible en la página
    
-3. Validación de entrada:
+2. Validación de entrada:
    Si el campo de texto está vacío, se mostrará una alerta pidiendo un nombre válido.
    
-5. Sorteo aleatorio:
+3. Sorteo aleatorio:
    Al hacer clic en "Sortear Amigo", se selecciona un nombre de la lista de forma aleatoria.
    El resultado se muestra en pantalla.
    
@@ -20,10 +20,17 @@ Capturas de pantalla 📸
 
 1. Interfaz principal
    ![imagen](https://github.com/user-attachments/assets/3e71d918-8aa2-4120-ae3c-f7d04238a18d)
-
 2. Agregar nombres
-
    ![imagen](https://github.com/user-attachments/assets/b4cb5581-6384-4077-b979-d696f98e87d3)
+3. Resultado del sorteo
+   ![imagen](https://github.com/user-attachments/assets/de3342ca-6a3a-43b8-ac4d-4fd40981082e)
+
+Cómo usar el proyecto 🚀
+Requisitos previos
+
+    Un navegador web moderno (Chrome, Firefox, Edge, etc.).
+
+    Conexión a Internet (si deseas ver las imágenes).
 
 
 
