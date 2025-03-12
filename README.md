@@ -87,8 +87,8 @@ Créditos 🙌
 
     Desarrollado por: Rodrigo Romero.
 
-    Imágenes: **Capturas de pantalla**: Realizadas y editadas por Rodrigo Romero usando Microsoft Paint.
+    Imágenes: Capturas de pantalla realizadas y editadas por Rodrigo Romero usando Microsoft Paint.
 
 
-¡Gracias por usar Amigo Secreto! Esperamos que te sea útil para organizar tus intercambios de regalos. 🎉
+¡Gracias por usar Amigo Secreto! 
 
